@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class base {
+public class Base {
 	
 	WebDriver driver;
 	
